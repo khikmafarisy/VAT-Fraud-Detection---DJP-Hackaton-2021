@@ -8,5 +8,5 @@ Gambaran skema algoritma yang digunakan pada hackaton DJP 2021 dengan tema VAT &
 
 Pada skema ini kita menggabungkan 2 jenis algoritma ML yaitu :
 1. LDA Topic Modelling yang merupakan unsupervised ML untuk mencari topic-topic abstrak yang relevan pada dataset yang berupa sekumpulan 'word documents'.
-2. Isolation Forest yang digunakan untuk menentukan datapoint yang dianggap anomali dengan asumsi contamination 5%.
+2. Isolation Forest (unsupervised ML) yang digunakan untuk menentukan datapoint yang dianggap anomali dengan asumsi contamination 5%.
 
